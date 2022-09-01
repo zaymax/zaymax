@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Someday I'll write a text here
+
 <!--
 **zaymax/zaymax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
