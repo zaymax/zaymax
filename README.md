@@ -22,7 +22,7 @@ I'm Max, Full-stack Developer.
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+:computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zaymax.zaymax)
