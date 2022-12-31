@@ -22,6 +22,8 @@ I'm Max, Front-end developer.
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zaymax.zaymax)
+
 <!--
 **zaymax/zaymax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
