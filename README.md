@@ -1,6 +1,6 @@
 ### Hi there <a href="https://github.com/zaymax"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm Max, Front-end developer.
+I'm Max, Full-stack Developer.
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -22,6 +22,9 @@ I'm Max, Front-end developer.
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zaymax.zaymax)
 
 <!--
@@ -38,3 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/zaytsevcz/ "Maksim Zaytsev LinkedIn"
